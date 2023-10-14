@@ -1,0 +1,9 @@
+updated code from the main branch :
+
+Added Id card detection model 
+which process uploaded image , find identity card in it and update the cropped image of identity card.
+
+added passport image in schema
+
+added passport verification serializer and passport verification api
+
