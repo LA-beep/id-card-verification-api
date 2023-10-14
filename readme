@@ -1,4 +1,7 @@
-updated code from the main branch :
+ID card Verification Api
+
+user register himself with details.
+user submit a id card , information from id card get extracted and then is verified from the information provided by the user.
 
 Added Id card detection model 
 which process uploaded image , find identity card in it and update the cropped image of identity card.
